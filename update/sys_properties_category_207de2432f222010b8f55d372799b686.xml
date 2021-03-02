@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-02 06:20:18</sys_created_on>
+        <sys_id>207de2432f222010b8f55d372799b686</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_207de2432f222010b8f55d372799b686</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-02 06:20:18</sys_updated_on>
+        <title><![CDATA[<p><span style="font-family: &#39;comic sans ms&#39;, sans-serif; font-size: 14pt;"><em><strong>This is a test application properties for NeedIt application to complete Application Properties module.</strong></em></span></p>
+<p><span style="font-family: &#39;comic sans ms&#39;, sans-serif; font-size: 14pt;"><em><strong><img style="align: baseline;" title="" src="Error%20while%20adding%20same%20service%20in%20multiple%20SLA&#39;s.pngx" alt="" width="485" height="208" align="baseline" border="" hspace="" vspace="" /></strong></em></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=207de2432f222010b8f55d372799b686"/>
+</record_update>
