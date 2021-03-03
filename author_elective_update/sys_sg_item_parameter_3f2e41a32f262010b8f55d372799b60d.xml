@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>New Priority</name>
+        <parent>3cbb81232f262010b8f55d372799b640</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 12:38:16</sys_created_on>
+        <sys_id>3f2e41a32f262010b8f55d372799b60d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_3f2e41a32f262010b8f55d372799b60d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 12:43:11</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1857f3bedbb1245091232f17d49619df</instance_id>
+        <instance_name>dev105560</instance_name>
+        <name>sys_sg_item_parameter_3f2e41a32f262010b8f55d372799b60d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>New Priority</name><parent>3cbb81232f262010b8f55d372799b640</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-03 12:38:16</sys_created_on><sys_id>3f2e41a32f262010b8f55d372799b60d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>New Priority</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_item_parameter_3f2e41a32f262010b8f55d372799b60d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-03 12:43:11</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>1244285101</payload_hash>
+        <record_name>New Priority</record_name>
+        <reverted_from/>
+        <source>e9344b762f262010b8f55d372799b6ec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 12:43:11</sys_created_on>
+        <sys_id>b65fc1e32f262010b8f55d372799b6eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177f81d16260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 12:43:11</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>fe5fc1e3e62620105e01b1b45dab83ea</update_guid>
+        <update_guid_history>fe5fc1e3e62620105e01b1b45dab83ea:1244285101,8acec9a3932620109bf4d48622b77608:390656417,363e09a32b262010b24cf5758fae44f0:1244285101</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 12:44:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>1f392c7b38844214a1c0a1e54b5a6b69</sys_id>
+        <sys_metadata>3f2e41a32f262010b8f55d372799b60d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_3f2e41a32f262010b8f55d372799b60d</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_3f2e41a32f262010b8f55d372799b60d">b65fc1e32f262010b8f55d372799b6eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 12:44:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
